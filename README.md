@@ -16,9 +16,12 @@ A user sends a message to the number with their location (or whatever location t
 Since the whole application was made using API's, it is modular, microservices based, and any new service/API (Hospital, banks, libraries...) can be added or removed with ease, opening up possibilities for future expansion.
 
 
-## How to install:
+## How to install
 You need the file `API_KEYS.py` with the corresponding API keys.
 - Install dependencies ```pip install -r requirements.txt```
 - Move the installed file to homelesshack directory.
 - Run by going to homelesshack and running python app.py
 - Run the server
+
+## Output
+<img src="images/SmartShelterOutput.jpg" width="300"/>
