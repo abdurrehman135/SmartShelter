@@ -17,7 +17,7 @@ Since the whole application was made using API's, it is modular, microservices b
 
 
 ## How to install
-You need the file `API_KEYS.py` with the corresponding API keys.
+You need the file `API_KEYS.py` with the corresponding API keys. Also make a Twilio account and a register a phone number for messaging.
 - Install dependencies ```pip install -r requirements.txt```
 - Move the installed file to homelesshack directory.
 - Run by going to homelesshack and running python app.py
