@@ -7,7 +7,7 @@ CacheControl==0.12.5
 certifi==2019.3.9
 chardet==3.0.4
 Click==7.0
-Django==2.2.1
+Django==2.2.2
 django-phonenumber-field==2.4.0
 django-rest==0.0.1
 docutils==0.14
