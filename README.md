@@ -1,8 +1,8 @@
 # SmartShelter
-SmartShelter is a messaging app meant to help homeless and low-income people find important resources closest to their searched location.
+SmartShelter is a messaging app built as an emergency relief system to help people find important resources closest to their searched location.
 This app can help people who are near homeless, very low-income, even people who have just lost their homes (fire emergency, refugees, etc.)
 
-SmartShelter does not need data or wifi - it can work on Android, iOS, even a prepaid $25 flip phone, toll-free number.
+SmartShelter does not need data or wifi - it can work on Android, iOS, even a prepaid $25 flip phone with a toll-free number.
 
 We built the app using Python (Flask), Twilio's APIs, Google Cloud Platform, Mapbox's APIs, OpenWeatherMap, Open-Data (Toronto), and BeautifulSoup (scraping complies with the site's robots.txt).
 
